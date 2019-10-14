@@ -2,6 +2,7 @@
 This is a chat app written in JavaScript.
 
 [![Watch the video](chatClient.gif)](https://youtu.be/5dCL3NVSzEs)
+
 Click on gif to see entire video demo. 
 
 ## Installation
