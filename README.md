@@ -1,5 +1,5 @@
 ## Introduction
-This is a chat app written in JavaScript.
+This is a chat app written in JavaScript command line.
 
 [![Watch the video](chatClient.gif)](https://youtu.be/5dCL3NVSzEs)
 
@@ -40,3 +40,7 @@ in another tab
 
 ## For best layout, terminal should be in full screen
 tested in windows command prompt and cmder
+
+## Resources
+- Blessed.js
+- ws (websocket)
