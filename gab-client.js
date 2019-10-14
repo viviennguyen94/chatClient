@@ -174,7 +174,7 @@ enteruser.on('submit', (text1) => {
         const command_user = buffer.substr(0, index); // only picks up :direct 'user'
         const directMessage = buffer.substr(index + 1); // only picks up 'message'
 
-        // log(`{magenta-fg}YOU to ${splitup[1]}: ${directMessage}{/}`);
+        log(`{magenta-fg}YOU --> ${splitup[1]}: ${directMessage}{/}`);
         stuff = craftMessage(uname, splitup[1], 'direct', directMessage);
         ws.send(stuff);
       } else if (/^:whoami/.test(buffer)) {
@@ -261,7 +261,7 @@ enteruser.on('submit', (text1) => {
       let index2 = users.findIndex(x => x.name === parsed.from);
       log(`${users[index2].color}{black-fg}${parsed.from}{/}: ${parsed.data}`);
     } else if (parsed.kind === 'direct') { // direct message
-      log(`{magenta-fg}${parsed.from} to YOU: ${parsed.data}{/}`);
+      log(`{magenta-fg}${parsed.from} --> YOU: ${parsed.data}{/}`);
     } else if (parsed.kind === 'userlist') { // userlist
       // show and load online users upon first connection
       if (firstConnect === true) {

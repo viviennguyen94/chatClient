@@ -1,5 +1,8 @@
 ## Introduction
-This 
+This is a chat app written in JavaScript.
+
+[![Watch the video](https://media.giphy.com/media/Wq2lCVFHe4NZUh8V0n/giphy.gif)](https://youtu.be/5dCL3NVSzEs)
+Click on gif to see entire video demo. 
 
 ## Installation
 
