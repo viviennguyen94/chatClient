@@ -1,0 +1,24 @@
+{
+  "name": "gab-server",
+  "version": "1.0.0",
+  "description": "The server for Project 1 (GAB) in Advanced JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "express": "^4.16.4",
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.9",
+    "terminal-kit": "^1.26.11",
+    "ws": "^6.1.2"
+  }
+}

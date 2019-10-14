@@ -1,0 +1,5 @@
+[
+    { "expression": "hello", "style": "red-fg" },
+    { "expression": "wonderful", "style": "yellow-fg" },
+    { "expression": "^(gold|green)", "style": "green-fg" }
+]
