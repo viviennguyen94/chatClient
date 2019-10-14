@@ -1,5 +1,5 @@
 ## Introduction
-This is a chat app written in JavaScript command line.
+This is a chat app written in JavaScript and Node.js command line.
 
 [![Watch the video](chatClient1.gif)](https://youtu.be/5dCL3NVSzEs)
 
