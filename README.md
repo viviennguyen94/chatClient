@@ -1,9 +1,11 @@
 ## Introduction
 This is a chat app written in JavaScript command line.
 
-[![Watch the video](chatClient.gif)](https://youtu.be/5dCL3NVSzEs)
+[![Watch the video](chatClient1.gif)](https://youtu.be/5dCL3NVSzEs)
 
 Click on gif to see entire video demo. 
+
+[![Watch the video](chatClient.gif)](https://youtu.be/5dCL3NVSzEs)
 
 ## Installation
 
