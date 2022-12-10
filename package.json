@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "prompt": "^1.0.0",
     "readline-sync": "^1.4.9",
     "terminal-kit": "^1.26.11",
