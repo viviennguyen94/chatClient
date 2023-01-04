@@ -18,7 +18,7 @@
     "express": "^4.16.4",
     "prompt": "^1.0.0",
     "readline-sync": "^1.4.9",
-    "terminal-kit": "^1.26.11",
+    "terminal-kit": "^3.0.0",
     "ws": "^6.1.2"
   }
 }
